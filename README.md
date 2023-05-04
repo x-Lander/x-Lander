@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## x-Lander
+
+X-lender is a web 3 native community platform designed to address the challenges of social communication in web 3. The platform offers native web 3 group chat, interactive forms, and decentralized permission control. Additionally, X-lender supports video calls and email notifications, which are implemented using the Notifi tool.
+
+X-lender is participating in the Notifi track of a hackathon to enhance the notification system. In the future, the we have plans to integrate the platform with other web 3 products to provide a seamless experience for users. We will use the Injective Protocol, a decentralized exchange platform, to increase the utility of X-lender as a web 3 community platform.
+
 ## Getting Started
 
 First, run the development server:
